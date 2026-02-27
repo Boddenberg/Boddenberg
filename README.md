@@ -12,7 +12,6 @@
 - 📱 Desenvolvedor **Android** com foco em **Kotlin**
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 - 🍳 Fã de projetos criativos — já criei o **[Comidinhas](https://github.com/Boddenberg/comidinhas)**, um app de busca de receitas e restaurantes
-- ⚡ Fun fact: Comecei com um **Livro de Receitas** no GitHub e hoje construo sistemas completos!
 
 ---
 
