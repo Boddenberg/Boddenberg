@@ -5,10 +5,10 @@
 ### 👨‍💻 Desenvolvedor Backend no Itaú | Kotlin | IA | Tecnologia
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/filipeboddenberg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL@email.com">
+  <a href="mailto:filipeboddenberg@yahoo.com.br">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Boddenberg">
