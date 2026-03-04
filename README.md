@@ -9,7 +9,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 🔭 Atualmente trabalhando em **[VidaSync](https://github.com/Boddenberg/vidasync-app)** — app completo com front-end em React Native e back-end em Kotlin
-- 📱 Desenvolvedor **Android** com foco em **Kotlin**
+- 📱 Desenvolvedor **Backend** com foco em **Kotlin**
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 - 🍳 Fã de projetos criativos — já criei o **[Comidinhas](https://github.com/Boddenberg/comidinhas)**, um app de busca de receitas e restaurantes
 
