@@ -25,7 +25,6 @@
 - 👋 Me chamo **Filipe Boddenberg**, tenho **30 anos**
 - 💼 Atualmente sou **Desenvolvedor Backend no Itaú**
 - 🧠 Entusiasta de **tecnologia e IA**
-- 📱 Curto transformar ideias em produtos reais, do back ao app
 - 🔭 Trabalhando em projetos como o **[VidaSync](https://github.com/Boddenberg/vidasync-app)**
 - 🍳 Também criei o **[Comidinhas](https://github.com/Boddenberg/comidinhas)**, app de receitas e restaurantes
 
@@ -33,7 +32,7 @@
 
 ## 🌈 Um pouco de mim fora do código
 
-- 🏳️‍🌈 Gay
+- 🏳️‍🌈 LGBTQIAPN+
 - 🤓 Nerd assumido
 - ⚡ Fã de **Pokémon**
 - 🎮 Curto jogos online como **Tibia**, **TFT** e **Ragnarok**
