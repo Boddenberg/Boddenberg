@@ -1,5 +1,17 @@
 <div align="center">
 
+
+<p align="center">
+  <a href="https://github.com/seuusuario">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/seuusuario">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+
+
 # Filipe Boddenberg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 ### 👨‍💻 Backend Engineer no Itaú • Kotlin • IA • Tecnologia
