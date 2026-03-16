@@ -101,9 +101,15 @@ Clique para ouvir no Spotify 🎵
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Boddenberg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Boddenberg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boddenberg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
+
+<p align="center">
+  <sub>
+    O <strong>C+</strong> do GitHub Readme Stats não mede a qualidade dos projetos: ele usa um ranking global baseado em atividade pública, stars, PRs, reviews, issues e seguidores. Como esse cálculo costuma ser mais conservador, o rank foi ocultado e os cards agora destacam contribuições mais úteis do que a nota.
+  </sub>
+</p>
 
 ---
 
