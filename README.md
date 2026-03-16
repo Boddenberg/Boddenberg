@@ -88,7 +88,7 @@ Sou **Filipe Boddenberg**, tenho **30 anos** e atualmente atuo como **Desenvolve
 
 No GitHub, gosto de usar meus projetos pessoais para explorar tecnologia de um jeito mais criativo, principalmente com **Kotlin**, **backend**, **IA aplicada** e experiências digitais que me animam de verdade.
 
-Também faço questão de deixar visível uma parte importante de quem eu sou: **🏳️‍🌈 LGBTQIAPN+**, nerd assumido, fã de **Pokémon** e alguém que adora descobrir novas ideias, ferramentas e jeitos de construir coisas legais.
+Também sou: **🏳️‍🌈 LGBTQIAPN+**, nerd assumido, fã de **Pokémon** e alguém que adora descobrir novas ideias, ferramentas e jeitos de construir coisas legais.
 
 ---
 
