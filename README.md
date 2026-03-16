@@ -101,9 +101,15 @@ Clique para ouvir no Spotify 🎵
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Boddenberg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boddenberg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Boddenberg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&locale=pt-br&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boddenberg&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
 </div>
+
+<p align="center">
+  <sub>
+    Os cards acima agora dão mais peso ao <strong>histórico completo</strong> e à distribuição entre repositórios. No Top Languages, <strong>React não aparece como linguagem</strong>, porque ele entra como <strong>TypeScript/JavaScript</strong>. Na versão pública do GitHub Readme Stats, esse card considera principalmente os <strong>repositórios públicos</strong>. Para refletir repositórios privados também, só com instância própria/token.
+  </sub>
+</p>
 
 ---
 
