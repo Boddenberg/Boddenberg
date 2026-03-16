@@ -22,18 +22,13 @@
 
 </div>
 
-<p align="center">
-  <a href="https://SEU_USUARIO.pythonanywhere.com/link">
-    <img
-      src="https://SEU_USUARIO.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
-      alt="Spotify Now Playing"
-    />
-  </a>
-</p>
+## 🎧 O que estou ouvindo agora
 
-<p align="center">
-  <sub>🎧 Tocando por aqui</sub>
-</p>
+<div align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://boddenbergreadme.vercel.app/api/orchestrator?background_type=blur_dark&border_color=30363d&show_status=true" />
+  </a>
+</div>
 
 <table align="center">
   <tr>
