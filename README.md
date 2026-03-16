@@ -131,8 +131,6 @@ Também venho estudando e testando tecnologias como **LLMs**, **RAG**, **LangCha
 
 </div>
 
-Grande parte do meu aprendizado contínuo vem de plataformas como **Alura** e **Udemy**, onde acompanho cursos sobre backend, arquitetura, cloud e inteligência artificial.
-
 ---
 
 # 📊 GitHub Stats
