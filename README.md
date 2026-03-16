@@ -107,7 +107,7 @@ Clique para ouvir no Spotify 🎵
 
 <p align="center">
   <sub>
-    Os cards acima agora dão mais peso ao <strong>histórico completo</strong> e à distribuição entre repositórios. No Top Languages, <strong>React não aparece como linguagem</strong> porque ele entra como <strong>TypeScript/JavaScript</strong>. E vale lembrar: na versão pública do GitHub Readme Stats, esse card considera principalmente os <strong>repositórios públicos</strong>; para refletir repositórios privados também, só com instância própria/token.
+    Os cards acima agora dão mais peso ao <strong>histórico completo</strong> e à distribuição entre repositórios. No Top Languages, <strong>React não aparece como linguagem</strong>, porque ele entra como <strong>TypeScript/JavaScript</strong>. Na versão pública do GitHub Readme Stats, esse card considera principalmente os <strong>repositórios públicos</strong>. Para refletir repositórios privados também, só com instância própria/token.
   </sub>
 </p>
 
