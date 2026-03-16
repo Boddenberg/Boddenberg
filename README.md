@@ -107,7 +107,7 @@ Clique para ouvir no Spotify 🎵
 
 <p align="center">
   <sub>
-    O <strong>C+</strong> do GitHub Readme Stats não mede a qualidade dos projetos: ele usa um ranking global baseado em atividade pública, stars, PRs, reviews, issues e seguidores. Como esse cálculo costuma ser mais conservador, o rank foi ocultado e os cards agora destacam contribuições mais úteis do que a nota.
+    Se você já viu um <strong>C+</strong> nesse card, ele não mede a qualidade dos projetos: o GitHub Readme Stats usa um ranking global baseado em atividade pública, stars, PRs, reviews, issues e seguidores. Como esse cálculo costuma ser mais conservador, o rank foi ocultado e os cards agora destacam contribuições mais úteis do que a nota.
   </sub>
 </p>
 
