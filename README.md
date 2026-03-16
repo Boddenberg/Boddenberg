@@ -51,13 +51,13 @@ Também sou **🏳️‍🌈 LGBTQIAPN+**, nerd assumido, fã de **Pokémon** e 
 
 # 🤖 IA nos meus projetos
 
-Nos meus projetos pessoais gosto de explorar formas práticas de usar inteligência artificial.
+Nos meus projetos pessoais exploro aplicações práticas de IA generativa e sistemas baseados em LLMs.
 
-No **VidaSync**, busco criar experiências mais inteligentes para acompanhamento nutricional, contexto e personalização da jornada.
+No VidaSync, desenvolvo experiências inteligentes para acompanhamento nutricional, utilizando contexto, personalização e análise de dados para melhorar a jornada do usuário.
 
-No **Comidinhas**, experimento ideias relacionadas a recomendação de receitas, enriquecimento de conteúdo e interações mais úteis para quem quer cozinhar ou descobrir novos restaurantes.
+No Comidinhas, experimento recomendação de receitas, enriquecimento de conteúdo e descoberta de restaurantes, aplicando técnicas de RAG, embeddings e pipelines de LLMs.
 
-Também venho estudando e testando tecnologias como **LLMs**, **RAG**, **LangChain**, **LangGraph**, **embeddings** e arquiteturas multiagentes.
+Também estudo e prototipo arquiteturas com LangChain, LangGraph, RAG, embeddings e sistemas multiagentes.
 
 ---
 
