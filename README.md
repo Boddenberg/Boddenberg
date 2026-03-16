@@ -1,16 +1,4 @@
 <div align="center">
-
-<p align="center">
-  <a href="https://github.com/seuusuario">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/seuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:email@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
   
 # Filipe Boddenberg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
