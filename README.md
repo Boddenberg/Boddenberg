@@ -94,13 +94,11 @@ Também sou: **🏳️‍🌈 LGBTQIAPN+**, nerd assumido, fã de **Pokémon** e
 
 ## 🤖 IA nos meus projetos
 
-Nos meus projetos pessoais, tenho usado IA muito mais como ferramenta para criar experiências úteis do que como enfeite.
-
 No **VidaSync**, meu interesse está em evoluir experiências mais inteligentes para acompanhamento, contexto e personalização da jornada de nutrição.
 
 No **Comidinhas**, gosto de explorar caminhos para recomendação, enriquecimento de conteúdo e interações mais úteis para quem está procurando o que cozinhar ou onde comer.
 
-Também tenho estudado e testado recursos como **LLMs**, **RAG**, **LangChain**, **LangGraph**, **embeddings** e integrações com **tools**, sempre pensando em aplicação prática e não só em buzzword.
+Também tenho estudado e testado recursos como **LLMs**, **RAG**, **LangChain**, **LangGraph**, **embeddings**, integrações com **tools**, arquiteturas multiagentes e mais, sempre pensando de forma criativa para resolver algum problema e atender uma necessidade. :)
 
 ---
 
