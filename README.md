@@ -3,6 +3,7 @@
 # Filipe Boddenberg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 ### 👨‍💻 Backend Engineer no Itaú • Kotlin • IA • Tecnologia
+Nos projetos pessoais, gosto de explorar ideias criativas com inteligência artificial ✨
 
 <p align="center">
   <a href="https://github.com/Boddenberg">
@@ -23,17 +24,6 @@
 
 </div>
 
----
-
-
-
-# 🧑‍💻 Sobre mim
-
-Sou **Filipe Boddenberg**, tenho **30 anos** e atualmente atuo como **Backend Engineer no Itaú**.
-
-Gosto de usar meus projetos pessoais para explorar tecnologia de um jeito mais criativo, principalmente com **Kotlin**, **backend**, **IA aplicada** e experiências digitais que me animam de verdade.
-
-Também sou **🏳️‍🌈 LGBTQIAPN+**, nerd assumido, fã de **Pokémon** e alguém que adora descobrir novas ideias, ferramentas e jeitos de construir coisas legais.
 
 ---
 
