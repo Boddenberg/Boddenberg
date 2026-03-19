@@ -3,7 +3,9 @@
 # Filipe Boddenberg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 ### 👨‍💻 Backend Engineer no Itaú • Kotlin • IA • Tecnologia
+
 Nos projetos pessoais, gosto de explorar ideias criativas com inteligência artificial ✨
+
 
 <p align="center">
   <a href="https://github.com/Boddenberg">
@@ -21,9 +23,46 @@ Nos projetos pessoais, gosto de explorar ideias criativas com inteligência arti
   <img src="https://komarev.com/ghpvc/?username=Boddenberg&color=6C63FF&style=for-the-badge&label=VISITANTES" />
 </p>
 
-
 </div>
 
+---
+
+<div align="center">
+
+### 🚀 Linguagens e Fundamentos
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,py,go,spring,postgres,mysql&theme=dark&perline=4" />
+
+### ☁️ Cloud, Infra e Ferramentas
+
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,redis,supabase,git,github&theme=dark&perline=4" />
+
+</div>
+<div align="center">
+  
+### AI
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Agents-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool_Calling-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic_Search-64748B?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Multi--Step_Agents-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM--as--Judge-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangFuse-059669?style=for-the-badge"/>
+
+</div>
+</div>
 
 ---
 
@@ -36,18 +75,6 @@ Nos projetos pessoais, gosto de explorar ideias criativas com inteligência arti
 </a>
 
 </div>
-
----
-
-# 🤖 IA nos meus projetos
-
-Nos meus projetos pessoais exploro aplicações práticas de IA generativa e sistemas baseados em LLMs.
-
-No VidaSync, desenvolvo experiências inteligentes para acompanhamento nutricional, utilizando contexto, personalização e análise de dados para melhorar a jornada do usuário.
-
-No Comidinhas, experimento recomendação de receitas, enriquecimento de conteúdo e descoberta de restaurantes, aplicando técnicas de RAG, embeddings e pipelines de LLMs.
-
-Também estudo e prototipo arquiteturas com LangChain, LangGraph, RAG, embeddings e sistemas multiagentes.
 
 ---
 
@@ -65,44 +92,6 @@ Também estudo e prototipo arquiteturas com LangChain, LangGraph, RAG, embedding
 
 ---
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### Backend
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-
-### Cloud & Infra
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-### Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-### AI
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
-</div>
-
----
 
 # 📜 Certificações
 
