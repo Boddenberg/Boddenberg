@@ -2,9 +2,9 @@
   
 # Filipe Boddenberg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
-### 👨‍💻 Backend Engineer no Itaú • Kotlin • IA • Tecnologia
+### Backend Engineer no Itaú • Kotlin • IA • Tecnologia
 
-Nos projetos pessoais, gosto de explorar ideias criativas com inteligência artificial ✨
+Nos projetos pessoais, gosto de explorar ideias criativas com inteligência artificial
 
 
 <p align="center">
@@ -29,11 +29,11 @@ Nos projetos pessoais, gosto de explorar ideias criativas com inteligência arti
 
 <div align="center">
 
-### 🚀 Linguagens e Fundamentos
+### Linguagens e Fundamentos
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,py,go,spring,postgres,mysql&theme=dark&perline=4" />
 
-### ☁️ Cloud, Infra e Ferramentas
+### Cloud, Infra e Ferramentas
 
 <img src="https://skillicons.dev/icons?i=aws,docker,terraform,redis,supabase,git,github&theme=dark&perline=4" />
 
@@ -66,7 +66,7 @@ Nos projetos pessoais, gosto de explorar ideias criativas com inteligência arti
 
 ---
 
-# 🎧 Tocando agora
+# Tocando agora
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Nos projetos pessoais, gosto de explorar ideias criativas com inteligência arti
 
 ---
 
-# 🚀 Projetos em destaque
+# Projetos em destaque
 
 <div align="center">
 
@@ -93,7 +93,7 @@ Nos projetos pessoais, gosto de explorar ideias criativas com inteligência arti
 ---
 
 
-# 📜 Certificações
+# Certificações
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Nos projetos pessoais, gosto de explorar ideias criativas com inteligência arti
 
 ---
 
-# 📚 Aprendizado Contínuo
+# Aprendizado Contínuo
 
 <div align="center">
 
@@ -114,7 +114,7 @@ Nos projetos pessoais, gosto de explorar ideias criativas com inteligência arti
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Nos projetos pessoais, gosto de explorar ideias criativas com inteligência arti
 
 ---
 
-# 📈 Activity
+# Activity
 
 <div align="center">
 
