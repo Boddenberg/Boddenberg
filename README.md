@@ -74,6 +74,12 @@ Nos projetos pessoais, gosto de explorar ideias criativas com inteligência arti
   <img src="https://boddenbergreadme.vercel.app/api/orchestrator?background_type=blur_dark&border_color=30363d&show_status=true" />
 </a>
 
+<br>
+
+🎨 **Paleta do meu álbum favorito**
+
+<img src="album-palette.svg" width="540" />
+
 </div>
 
 ---
