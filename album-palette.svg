@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="106" viewBox="0 0 540 106">
+  <defs>
+    <clipPath id="bar-clip">
+      <rect x="16" y="16" width="508" height="24" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="540" height="106" rx="14" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Proportional color bar -->
+  <g clip-path="url(#bar-clip)">
+    <rect x="16"     y="16" width="152.4" height="24" fill="#160D27"/>
+    <rect x="168.4"  y="16" width="80.3"  height="24" fill="#087BDC"/>
+    <rect x="248.7"  y="16" width="74.7"  height="24" fill="#203AB4"/>
+    <rect x="323.4"  y="16" width="64.0"  height="24" fill="#CBC8CB"/>
+    <rect x="387.4"  y="16" width="62.0"  height="24" fill="#1D116E"/>
+    <rect x="449.4"  y="16" width="24.4"  height="24" fill="#789FD0"/>
+    <rect x="473.8"  y="16" width="24.4"  height="24" fill="#F4A55E"/>
+    <rect x="498.2"  y="16" width="25.8"  height="24" fill="#911C3F"/>
+  </g>
+
+  <!-- Color swatches row — evenly spaced -->
+  <!-- #160D27  30% -->
+  <circle cx="30"   cy="62" r="8" fill="#160D27" stroke="#30363d" stroke-width="0.8"/>
+  <text   x="30"   y="84" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="9" font-weight="500">#160D27</text>
+  <text   x="30"   y="96" text-anchor="middle" fill="#484f58" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="8">30%</text>
+
+  <!-- #087BDC  15.8% -->
+  <circle cx="98.6" cy="62" r="8" fill="#087BDC" stroke="#30363d" stroke-width="0.8"/>
+  <text   x="98.6" y="84" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="9" font-weight="500">#087BDC</text>
+  <text   x="98.6" y="96" text-anchor="middle" fill="#484f58" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="8">15.8%</text>
+
+  <!-- #203AB4  14.7% -->
+  <circle cx="167.1" cy="62" r="8" fill="#203AB4" stroke="#30363d" stroke-width="0.8"/>
+  <text   x="167.1" y="84" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="9" font-weight="500">#203AB4</text>
+  <text   x="167.1" y="96" text-anchor="middle" fill="#484f58" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="8">14.7%</text>
+
+  <!-- #CBC8CB  12.6% -->
+  <circle cx="235.7" cy="62" r="8" fill="#CBC8CB" stroke="#30363d" stroke-width="0.8"/>
+  <text   x="235.7" y="84" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="9" font-weight="500">#CBC8CB</text>
+  <text   x="235.7" y="96" text-anchor="middle" fill="#484f58" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="8">12.6%</text>
+
+  <!-- #1D116E  12.2% -->
+  <circle cx="304.3" cy="62" r="8" fill="#1D116E" stroke="#30363d" stroke-width="0.8"/>
+  <text   x="304.3" y="84" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="9" font-weight="500">#1D116E</text>
+  <text   x="304.3" y="96" text-anchor="middle" fill="#484f58" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="8">12.2%</text>
+
+  <!-- #789FD0  4.8% -->
+  <circle cx="372.9" cy="62" r="8" fill="#789FD0" stroke="#30363d" stroke-width="0.8"/>
+  <text   x="372.9" y="84" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="9" font-weight="500">#789FD0</text>
+  <text   x="372.9" y="96" text-anchor="middle" fill="#484f58" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="8">4.8%</text>
+
+  <!-- #F4A55E  4.8% -->
+  <circle cx="441.4" cy="62" r="8" fill="#F4A55E" stroke="#30363d" stroke-width="0.8"/>
+  <text   x="441.4" y="84" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="9" font-weight="500">#F4A55E</text>
+  <text   x="441.4" y="96" text-anchor="middle" fill="#484f58" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="8">4.8%</text>
+
+  <!-- #911C3F  4.8% -->
+  <circle cx="510"  cy="62" r="8" fill="#911C3F" stroke="#30363d" stroke-width="0.8"/>
+  <text   x="510"  y="84" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="9" font-weight="500">#911C3F</text>
+  <text   x="510"  y="96" text-anchor="middle" fill="#484f58" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="8">4.8%</text>
+</svg>
