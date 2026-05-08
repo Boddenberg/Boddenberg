@@ -4,7 +4,7 @@
 
 ### Backend Engineer no Itaú • Kotlin • IA • Tecnologia
 
-Nos projetos pessoais, gosto de explorar ideias criativas com inteligência artificial
+Nos projetos pessoais, gosto de explorar ideias criativas com dados e inteligência artificial.
 
 
 <p align="center">
