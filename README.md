@@ -78,20 +78,6 @@ Nos projetos pessoais, gosto de explorar ideias criativas com dados e inteligên
 
 ---
 
-# Projetos em destaque
-
-<div align="center">
-
-[![VidaSync App](https://github-readme-stats.vercel.app/api/pin/?username=Boddenberg&repo=vidasync-app&theme=tokyonight&hide_border=true)](https://github.com/Boddenberg/vidasync-app)
-
-[![VidaSync BFF](https://github-readme-stats.vercel.app/api/pin/?username=Boddenberg&repo=vidasync-bff&theme=tokyonight&hide_border=true)](https://github.com/Boddenberg/vidasync-bff)
-
-[![Comidinhas](https://github-readme-stats.vercel.app/api/pin/?username=Boddenberg&repo=comidinhas&theme=tokyonight&hide_border=true)](https://github.com/Boddenberg/comidinhas)
-
-</div>
-
----
-
 
 # Certificações
 
