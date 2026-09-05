@@ -1,0 +1,20 @@
+<svg width="340" height="195" viewBox="0 0 340 195"
+     fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Linguagens mais usadas por Boddenberg">
+  <title>Linguagens mais usadas por Boddenberg</title>
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, Sans-Serif; fill: #70a5fd; }
+    .lang  { font: 400 12px 'Segoe UI', Ubuntu, -apple-system, BlinkMacSystemFont, Sans-Serif; fill: #38bdae; }
+  </style>
+  <rect x="0" y="0" width="340" height="195" rx="6" fill="#1a1b27"/>
+  <text class="title" x="25" y="35">Linguagens mais usadas</text>
+  <mask id="bar-mask">
+    <rect x="0" y="0" width="290" height="9" rx="4.5" fill="white"/>
+  </mask>
+  <g transform="translate(25, 58)" mask="url(#bar-mask)">
+    <rect x="0.00" y="0" width="85.54" height="9" fill="#3178c6"/><rect x="85.54" y="0" width="71.80" height="9" fill="#3572A5"/><rect x="157.35" y="0" width="55.18" height="9" fill="#336790"/><rect x="212.53" y="0" width="28.59" height="9" fill="#A97BFF"/><rect x="241.12" y="0" width="20.93" height="9" fill="#663399"/><rect x="262.05" y="0" width="12.33" height="9" fill="#00ADD8"/><rect x="274.37" y="0" width="8.93" height="9" fill="#e34c26"/><rect x="283.30" y="0" width="6.70" height="9" fill="#f1e05a"/>
+  </g>
+  <g transform="translate(25, 82)">
+    <g transform="translate(0, 0)"><circle cx="5" cy="6" r="5" fill="#3178c6"/><text class="lang" x="16" y="10">TypeScript 29,5%</text></g><g transform="translate(155, 0)"><circle cx="5" cy="6" r="5" fill="#3572A5"/><text class="lang" x="16" y="10">Python 24,8%</text></g><g transform="translate(0, 26)"><circle cx="5" cy="6" r="5" fill="#336790"/><text class="lang" x="16" y="10">PLpgSQL 19,0%</text></g><g transform="translate(155, 26)"><circle cx="5" cy="6" r="5" fill="#A97BFF"/><text class="lang" x="16" y="10">Kotlin 9,9%</text></g><g transform="translate(0, 52)"><circle cx="5" cy="6" r="5" fill="#663399"/><text class="lang" x="16" y="10">CSS 7,2%</text></g><g transform="translate(155, 52)"><circle cx="5" cy="6" r="5" fill="#00ADD8"/><text class="lang" x="16" y="10">Go 4,3%</text></g><g transform="translate(0, 78)"><circle cx="5" cy="6" r="5" fill="#e34c26"/><text class="lang" x="16" y="10">HTML 3,1%</text></g><g transform="translate(155, 78)"><circle cx="5" cy="6" r="5" fill="#f1e05a"/><text class="lang" x="16" y="10">JavaScript 2,3%</text></g>
+  </g>
+</svg>
