@@ -104,9 +104,9 @@ Nos projetos pessoais, gosto de explorar ideias criativas com dados e inteligên
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Boddenberg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide=issues,contribs&show=prs_merged_percentage&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Boddenberg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&hide=issues,contribs&show=prs_merged_percentage&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boddenberg&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8&size_weight=0.5&count_weight=0.5"/>
+<img height="170em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Boddenberg&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8&size_weight=0.5&count_weight=0.5"/>
 
 </div>
 
@@ -116,6 +116,6 @@ Nos projetos pessoais, gosto de explorar ideias criativas com dados e inteligên
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Boddenberg&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://activity-graph.vercel.app/graph?username=Boddenberg&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
