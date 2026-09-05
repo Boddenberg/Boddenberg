@@ -1,0 +1,51 @@
+name: Atualiza cards do README
+
+on:
+  schedule:
+    # Todo dia às 05:17 UTC (02:17 em Brasília).
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  push:
+    # Regenera na hora sempre que o gerador mudar.
+    paths:
+      - ".github/workflows/readme-cards.yml"
+      - ".github/scripts/generate_cards.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-cards-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gera os cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 .github/scripts/generate_cards.py \
+            --login "${{ github.repository_owner }}" \
+            --out assets
+
+      - name: Publica as mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --staged --quiet; then
+            echo "Cards já estavam atualizados, nada a commitar."
+            exit 0
+          fi
+          git commit -m "chore(readme): atualiza cards de estatísticas [skip ci]"
+          git push origin "HEAD:${{ github.ref_name }}"
