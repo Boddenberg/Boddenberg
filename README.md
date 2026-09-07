@@ -66,58 +66,6 @@ Nos projetos pessoais, gosto de explorar ideias criativas com dados e inteligên
 
 ---
 
-# Projetos
-
-Ecossistemas completos — do backend ao app — construídos ponta a ponta.
-
-### 🤖 PJ Assistant · agente de IA para clientes PJ
-
-| Repositório | Papel | Stack |
-| --- | --- | --- |
-| [pj-assistant-agent-py](https://github.com/Boddenberg/pj-assistant-agent-py) | Agente conversacional: onboarding guiado, RAG e tools financeiras | LangGraph · FastAPI · ChromaDB |
-| [pj-assistant-bfa-go](https://github.com/Boddenberg/pj-assistant-bfa-go) | Backend BaaS em arquitetura hexagonal | Go · Chi · Supabase |
-| [pj-assistant-web](https://github.com/Boddenberg/pj-assistant-web) | App mobile | Expo · React Native · TypeScript |
-| [pj-assistant-case-docs](https://github.com/Boddenberg/pj-assistant-case-docs) | Documentação técnica publicada | Docusaurus · Mermaid |
-
-### 🥖 Padoka 100 · gestão para padaria
-
-| Repositório | Papel | Stack |
-| --- | --- | --- |
-| [padoka100](https://github.com/Boddenberg/padoka100) | Venda, produção, precificação e análise com histórico | FastAPI · Supabase · OpenAI |
-| [padoka100-web](https://github.com/Boddenberg/padoka100-web) | Cockpit mobile do balcão | Expo SDK 54 · React Native |
-
-### 📄 ThiagoDocs · leitura assistida de documentos
-
-| Repositório | Papel | Stack |
-| --- | --- | --- |
-| [transdocs](https://github.com/Boddenberg/transdocs) | Extração estruturada e preenchimento de minutas com conferência humana | FastAPI · OpenAI Vision · Supabase |
-| [transdocs-web](https://github.com/Boddenberg/transdocs-web) | Envio, leitura e conferência | Next.js 16 · React 19 |
-
-### 🍳 Comidinhas · receitas e curadoria com IA
-
-| Repositório | Papel | Stack |
-| --- | --- | --- |
-| [comidinhas](https://github.com/Boddenberg/comidinhas) | App Android nativo | Kotlin · Jetpack Compose |
-| [comidinhas-bff](https://github.com/Boddenberg/comidinhas-bff) | Camada inteligente de produto | FastAPI · OpenAI |
-| [comidinhas-web](https://github.com/Boddenberg/comidinhas-web) | Front de preferências e curadoria | TypeScript |
-
-### 🌿 VidaSync · rotina, nutrição e bem-estar
-
-| Repositório | Papel | Stack |
-| --- | --- | --- |
-| [vidasync-app](https://github.com/Boddenberg/vidasync-app) | Cliente mobile centrado no dia atual | React Native · TypeScript |
-| [vidasync-bff](https://github.com/Boddenberg/vidasync-bff) | Backend-for-frontend | Kotlin · Spring Boot |
-| [vidasync-multiagents-ia](https://github.com/Boddenberg/vidasync-multiagents-ia) | Orquestração de agentes de IA | FastAPI · Multi-agentes |
-
-### ⚡ Outros
-
-| Repositório | Papel | Stack |
-| --- | --- | --- |
-| [financas-zap](https://github.com/Boddenberg/financas-zap) | Ponte local e resiliente entre backend, Supabase e WhatsApp | Node.js 24 · TypeScript |
-| [amigos-roles](https://github.com/Boddenberg/amigos-roles) | Home social para organizar rolês do grupo | React · Vite · Supabase |
-
----
-
 # Tocando agora
 
 <div align="center">
