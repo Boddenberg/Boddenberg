@@ -2,7 +2,7 @@
   
 # Filipe Boddenberg <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
-### Backend Engineer no Itaú • Kotlin • IA • Tecnologia
+### Engenheiro de IA no Itaú • Kotlin • IA • Tecnologia
 
 Nos projetos pessoais, gosto de explorar ideias criativas com dados e inteligência artificial.
 
