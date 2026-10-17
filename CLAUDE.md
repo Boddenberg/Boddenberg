@@ -23,6 +23,8 @@ Como usar:
 O objetivo é economizar contexto sem perder qualidade. Contexto pequeno = respostas mais rápidas, mais precisas e mais baratas.
 
 ## 1. Início de sessão
+- Se a seção "Projeto" deste arquivo ainda tiver campos `<...>`, preencha antes de começar: olhe o repo (package.json, README, estrutura de pastas, workflows) e escreva os campos. Inclua essa mudança no primeiro commit da sessão, sem perguntar.
+- Se a tarefa envolver outro repositório, antes de mexer nele leia o `CLAUDE.md` dele (preenchendo a seção "Projeto" dele, se estiver vazia). Se ele não tiver `CLAUDE.md`, crie um com este mesmo arquivo, preencha o "Projeto" e inclua no commit.
 - Se existir `HANDOFF.md` na raiz, leia primeiro e continue dele.
 - Se existir `TAREFAS.md` com itens pendentes, retome do próximo item.
 - Não explore o repositório inteiro. Use a seção "Projeto" acima e abra só os arquivos que a tarefa exige.
